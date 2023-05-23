@@ -62,7 +62,7 @@ Aventureiro, nosso protagonista destemido, estava determinado a escapar dessa mi
                     <strong>></strong>: Símbolo que representa um teletransporte. O teletransporte sempre vem em pares, quando o jogador toca em um ele é transportado para o outro e vice-versa.
                 </li>
              
-   <h1>### Integrantes da equipe ###</h1>
+<h1>### Integrantes da equipe ###</h1>
               <h5>Davi Maciel Cavalcante</h5>
               <h5>Otto samuel</h5>
               <h5>Ariel</h5>
